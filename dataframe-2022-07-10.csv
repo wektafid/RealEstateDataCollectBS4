@@ -1,130 +1,41 @@
 ;link;location;type;size;rooms;price
-0;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32932734;xiii-ker;tegla-epitesu-lakas;60 m2;2;54,99 millió Ft
-1;/viii-ker/elado+lakas/tegla-epitesu-lakas/32988804;viii-ker;tegla-epitesu-lakas;92 m2;5;69 millió Ft
-2;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32879321;xiv-ker;tegla-epitesu-lakas;44 m2;2;41,90 millió Ft
-3;/xiii-ker/elado+lakas/tegla-epitesu-lakas/33009269;xiii-ker;tegla-epitesu-lakas;65 m2;2;108,80 millió Ft
-4;/vii-ker/elado+lakas/tegla-epitesu-lakas/32772342;vii-ker;tegla-epitesu-lakas;50 m2;2;36,90 millió Ft
-5;/vii-ker/elado+lakas/tegla-epitesu-lakas/32807343;vii-ker;tegla-epitesu-lakas;119 m2;5;155 millió Ft
-6;/viii-ker/elado+lakas/tegla-epitesu-lakas/32916928;viii-ker;tegla-epitesu-lakas;50 m2;1 + 2 fél;43,90 millió Ft
-7;/szekesfehervar/elado+lakas/tegla-epitesu-lakas/32668601;szekesfehervar;tegla-epitesu-lakas;113 m2;4;98 millió Ft
-8;/iii-ker/elado+lakas/tegla-epitesu-lakas/32120865;iii-ker;tegla-epitesu-lakas;79 m2;3;96,47 millió Ft
-9;/ii-ker/elado+lakas/tegla-epitesu-lakas/33006386;ii-ker;tegla-epitesu-lakas;60 m2;1 + 2 fél;63 millió Ft
-10;/xi-ker/elado+lakas/tegla-epitesu-lakas/32609582;xi-ker;tegla-epitesu-lakas;50 m2;3;76,03 millió Ft
-11;/iii-ker/elado+lakas/tegla-epitesu-lakas/32980338;iii-ker;tegla-epitesu-lakas;85 m2;4;205 millió Ft
-12;/siofok/elado+lakas/tegla-epitesu-lakas/32996817;siofok;tegla-epitesu-lakas;71 m2;3;125 millió Ft
-13;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32828565;xiv-ker;tegla-epitesu-lakas;78 m2;2;51,50 millió Ft
-14;/xix-ker/elado+lakas/tegla-epitesu-lakas/32903526;xix-ker;tegla-epitesu-lakas;78 m2;4;75,09 millió Ft
-15;/iii-ker/elado+lakas/panel-lakas/32918620;iii-ker;panel-lakas;52 m2;2;46,50 millió Ft
-16;/xiv-ker/elado+lakas/tegla-epitesu-lakas/33006147;xiv-ker;tegla-epitesu-lakas;43 m2;2;55,90 millió Ft
-17;/vi-ker/elado+lakas/tegla-epitesu-lakas/32183552;vi-ker;tegla-epitesu-lakas;43 m2;2;51,99 millió Ft
-18;/vi-ker/elado+lakas/tegla-epitesu-lakas/32990726;vi-ker;tegla-epitesu-lakas;93 m2;2;129,50 millió Ft
-19;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32964476;xiv-ker;tegla-epitesu-lakas;95 m2;4;88 millió Ft
-20;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32942874;xiii-ker;tegla-epitesu-lakas;75 m2;2 + 1 fél;54,50 millió Ft
-21;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32856266;xiii-ker;tegla-epitesu-lakas;49 m2;2;60,11 millió Ft
-22;/vii-ker/elado+lakas/tegla-epitesu-lakas/32924792;vii-ker;tegla-epitesu-lakas;130 m2;4;99,90 millió Ft
-23;/iii-ker/elado+lakas/tegla-epitesu-lakas/31938161;iii-ker;tegla-epitesu-lakas;56 m2;3;68,50 millió Ft
-24;/xi-ker/elado+lakas/tegla-epitesu-lakas/32968501;xi-ker;tegla-epitesu-lakas;37 m2;1;48,90 millió Ft
-25;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32186817;xiii-ker;tegla-epitesu-lakas;46 m2;2;59,90 millió Ft
-26;/xiii-ker/elado+lakas/tegla-epitesu-lakas/33007019;xiii-ker;tegla-epitesu-lakas;74 m2;3;88 millió Ft
-27;/xiii-ker/elado+lakas/panel-lakas/32864768;xiii-ker;panel-lakas;61 m2;2 + 1 fél;49,90 millió Ft
-28;/vi-ker/elado+lakas/tegla-epitesu-lakas/32184008;vi-ker;tegla-epitesu-lakas;44 m2;2;55,99 millió Ft
-29;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32982648;xiv-ker;tegla-epitesu-lakas;57 m2;2;53,90 millió Ft
-30;/xi-ker/elado+lakas/panel-lakas/32881470;xi-ker;panel-lakas;52 m2;2;49,90 millió Ft
-31;/xiii-ker/elado+lakas/panel-lakas/33001741;xiii-ker;panel-lakas;58 m2;1 + 2 fél;47,80 millió Ft
-32;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32985686;xiii-ker;tegla-epitesu-lakas;121 m2;4;97 millió Ft
-33;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32856269;xiii-ker;tegla-epitesu-lakas;50 m2;2;61,05 millió Ft
-34;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32050792;xiii-ker;tegla-epitesu-lakas;71 m2;3;88,52 millió Ft
-35;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32856462;xiii-ker;tegla-epitesu-lakas;44 m2;2;65,29 millió Ft
-36;/x-ker/elado+lakas/tegla-epitesu-lakas/32816208;x-ker;tegla-epitesu-lakas;40 m2;2;52,39 millió Ft
-37;/xiii-ker/elado+lakas/tegla-epitesu-lakas/29933660;xiii-ker;tegla-epitesu-lakas;54 m2;2;68,80 millió Ft
-38;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32249914;xiii-ker;tegla-epitesu-lakas;67 m2;3;95,60 millió Ft
-39;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32996959;xiii-ker;tegla-epitesu-lakas;66 m2;2;109,90 millió Ft
-40;/x-ker/elado+lakas/tegla-epitesu-lakas/32719894;x-ker;tegla-epitesu-lakas;70 m2;4;83,16 millió Ft
-41;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32325529;xiii-ker;tegla-epitesu-lakas;47 m2;2;59,80 millió Ft
-42;/x-ker/elado+lakas/tegla-epitesu-lakas/32718139;x-ker;tegla-epitesu-lakas;51 m2;3;66,40 millió Ft
-43;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32985002;xiii-ker;tegla-epitesu-lakas;57 m2;2;52 millió Ft
-44;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32700078;xiii-ker;tegla-epitesu-lakas;39 m2;2;56,90 millió Ft
-45;/viii-ker/elado+lakas/tegla-epitesu-lakas/32503038;viii-ker;tegla-epitesu-lakas;67 m2;3;63,21 millió Ft
-46;/x-ker/elado+lakas/tegla-epitesu-lakas/32632856;x-ker;tegla-epitesu-lakas;35 m2;1;46,84 millió Ft
-47;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32990341;xiii-ker;tegla-epitesu-lakas;78 m2;3;99 millió Ft
-48;/viii-ker/elado+lakas/tegla-epitesu-lakas/32984111;viii-ker;tegla-epitesu-lakas;43 m2;1;51,60 millió Ft
-49;/ix-ker/elado+lakas/tegla-epitesu-lakas/32412915;ix-ker;tegla-epitesu-lakas;46 m2;2;63,41 millió Ft
-50;/ix-ker/elado+lakas/tegla-epitesu-lakas/32746838;ix-ker;tegla-epitesu-lakas;48 m2;2;64,90 millió Ft
-51;/ii-ker/elado+lakas/tegla-epitesu-lakas/32960007;ii-ker;tegla-epitesu-lakas;85 m2;2 + 1 fél;119 millió Ft
-52;/iii-ker/elado+lakas/tegla-epitesu-lakas/32927968;iii-ker;tegla-epitesu-lakas;71 m2;3;89,76 millió Ft
-53;/xiii-ker/elado+lakas/tegla-epitesu-lakas/31914099;xiii-ker;tegla-epitesu-lakas;78 m2;3;97,78 millió Ft
-54;/iii-ker/elado+lakas/tegla-epitesu-lakas/32092149;iii-ker;tegla-epitesu-lakas;75 m2;3;91,16 millió Ft
-55;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32839400;xiii-ker;tegla-epitesu-lakas;63 m2;3;89,73 millió Ft
-56;/iii-ker/elado+lakas/tegla-epitesu-lakas/32092080;iii-ker;tegla-epitesu-lakas;62 m2;3;91,99 millió Ft
-57;/balatonfoldvar/elado+lakas/tegla-epitesu-lakas/32953721;balatonfoldvar;tegla-epitesu-lakas;26 m2;1;39,90 millió Ft
-58;/iii-ker/elado+lakas/tegla-epitesu-lakas/32905311;iii-ker;tegla-epitesu-lakas;84 m2;3;96,60 millió Ft
-59;/xiii-ker/elado+lakas/panel-lakas/32984671;xiii-ker;panel-lakas;62 m2;1 + 1 fél;64,90 millió Ft
-60;/xi-ker/elado+lakas/tegla-epitesu-lakas/32612088;xi-ker;tegla-epitesu-lakas;82 m2;4;120,70 millió Ft
-61;/debrecen/elado+lakas/tegla-epitesu-lakas/33011660;debrecen;tegla-epitesu-lakas;74 m2;4;54,99 millió Ft
-62;/siofok/elado+lakas/tegla-epitesu-lakas/32712002;siofok;tegla-epitesu-lakas;48 m2;2;77,70 millió Ft
-63;/eger/elado+lakas/csuszozsalus-lakas/33006921;eger;csuszozsalus-lakas;58 m2;3;29,99 millió Ft
-64;/balatonlelle/elado+lakas/tegla-epitesu-lakas/32996594;balatonlelle;tegla-epitesu-lakas;72 m2;2;39,80 millió Ft
-65;/veszprem/elado+lakas/tegla-epitesu-lakas/32989470;veszprem;tegla-epitesu-lakas;56 m2;2;42,90 millió Ft
-66;/ix-ker/elado+lakas/tegla-epitesu-lakas/32863947;ix-ker;tegla-epitesu-lakas;57 m2;2;70,99 millió Ft
-67;/szekesfehervar/elado+lakas/panel-lakas/33007737;szekesfehervar;panel-lakas;69 m2;4;78,79 millió Ft
-68;/ix-ker/elado+lakas/tegla-epitesu-lakas/32412914;ix-ker;tegla-epitesu-lakas;46 m2;2;63,16 millió Ft
-69;/ix-ker/elado+lakas/tegla-epitesu-lakas/32842698;ix-ker;tegla-epitesu-lakas;50 m2;2;70,69 millió Ft
-70;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32325487;xiii-ker;tegla-epitesu-lakas;76 m2;4;89,25 millió Ft
-71;/zalaegerszeg-belvaros/elado+lakas/tegla-epitesu-lakas/32877531;zalaegerszeg-belvaros;tegla-epitesu-lakas;64 m2;1 + 2 fél;"32,49 millió Ft
-82,71 ezer €"
-72;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32319977;xiii-ker;tegla-epitesu-lakas;45 m2;2;57,99 millió Ft
-73;/keszthely/elado+lakas/tegla-epitesu-lakas/32688569;keszthely;tegla-epitesu-lakas;44 m2;2;94,30 millió Ft
-74;/viii-ker/elado+lakas/tegla-epitesu-lakas/32747267;viii-ker;tegla-epitesu-lakas;72 m2;3;49,99 millió Ft
-75;/iii-ker/elado+lakas/tegla-epitesu-lakas/32960842;iii-ker;tegla-epitesu-lakas;73 m2;3;125,90 millió Ft
-76;/viii-ker/elado+lakas/tegla-epitesu-lakas/32503039;viii-ker;tegla-epitesu-lakas;45 m2;2;46,05 millió Ft
-77;/balatonszemes/elado+lakas/tegla-epitesu-lakas/32966959;balatonszemes;tegla-epitesu-lakas;57 m2;3;116,20 millió Ft
-78;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32970178;xiii-ker;tegla-epitesu-lakas;46 m2;1 + 1 fél;36,90 millió Ft
-79;/viii-ker/elado+lakas/csuszozsalus-lakas/33013348;viii-ker;csuszozsalus-lakas;55 m2;2;52 millió Ft
-80;/keszthely/elado+lakas/tegla-epitesu-lakas/32251688;keszthely;tegla-epitesu-lakas;41 m2;2;77,27 millió Ft
-81;/viii-ker/elado+lakas/tegla-epitesu-lakas/32675855;viii-ker;tegla-epitesu-lakas;43 m2;2;47,22 millió Ft
-82;/viii-ker/elado+lakas/tegla-epitesu-lakas/32675862;viii-ker;tegla-epitesu-lakas;44 m2;2;50,29 millió Ft
-83;/viii-ker/elado+lakas/tegla-epitesu-lakas/32585273;viii-ker;tegla-epitesu-lakas;25 m2;1;44,19 millió Ft
-84;/xi-ker/elado+lakas/tegla-epitesu-lakas/32611929;xi-ker;tegla-epitesu-lakas;46 m2;2;67,52 millió Ft
-85;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32984685;xiii-ker;tegla-epitesu-lakas;41 m2;2;75,80 millió Ft
-86;/balatonfuzfo-fuzfogyartelep/elado+lakas/tegla-epitesu-lakas/33002287;balatonfuzfo-fuzfogyartelep;tegla-epitesu-lakas;60 m2;2 + 1 fél;41 millió Ft
-87;/iii-ker/elado+lakas/panel-lakas/32918302;iii-ker;panel-lakas;49 m2;2;42,30 millió Ft
-88;/balatonszemes/elado+lakas/tegla-epitesu-lakas/32969384;balatonszemes;tegla-epitesu-lakas;41 m2;2;72,44 millió Ft
-89;/balatonszemes/elado+lakas/tegla-epitesu-lakas/32966989;balatonszemes;tegla-epitesu-lakas;32 m2;1;59 millió Ft
-90;/viii-ker/elado+lakas/tegla-epitesu-lakas/32949278;viii-ker;tegla-epitesu-lakas;42 m2;2;50,25 millió Ft
-91;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32912187;xiii-ker;tegla-epitesu-lakas;126 m2;4;168,98 millió Ft
-92;/viii-ker/elado+lakas/tegla-epitesu-lakas/32949269;viii-ker;tegla-epitesu-lakas;29 m2;1;36,95 millió Ft
-93;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32394099;xiii-ker;tegla-epitesu-lakas;44 m2;2;66,15 millió Ft
-94;/siofok/elado+lakas/tegla-epitesu-lakas/32974123;siofok;tegla-epitesu-lakas;41 m2;2;71,20 millió Ft
-95;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32975858;xiii-ker;tegla-epitesu-lakas;56 m2;3;89,90 millió Ft
-96;/viii-ker/elado+lakas/tegla-epitesu-lakas/32949239;viii-ker;tegla-epitesu-lakas;60 m2;3;63,90 millió Ft
-97;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32710199;xiii-ker;tegla-epitesu-lakas;67 m2;3;94,80 millió Ft
-98;/viii-ker/elado+lakas/tegla-epitesu-lakas/32210577;viii-ker;tegla-epitesu-lakas;51 m2;2;58,30 millió Ft
-99;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32637713;xiii-ker;tegla-epitesu-lakas;63 m2;3;92,86 millió Ft
-100;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32919410;xiii-ker;tegla-epitesu-lakas;46 m2;2;61 millió Ft
-101;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32867515;xiii-ker;tegla-epitesu-lakas;46 m2;2;57,90 millió Ft
-102;/vii-ker/elado+lakas/tegla-epitesu-lakas/32818473;vii-ker;tegla-epitesu-lakas;50 m2;2;36,90 millió Ft
-103;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32946293;xiii-ker;tegla-epitesu-lakas;108 m2;4;110 millió Ft
-104;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32868700;xiii-ker;tegla-epitesu-lakas;84 m2;4;128,50 millió Ft
-105;/balatonmariafurdo/elado+lakas/tegla-epitesu-lakas/33007283;balatonmariafurdo;tegla-epitesu-lakas;32 m2;1 + 1 fél;"54 millió Ft
-133,40 ezer €"
-106;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32868360;xiii-ker;tegla-epitesu-lakas;77 m2;4;91,50 millió Ft
-107;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32985750;xiii-ker;tegla-epitesu-lakas;71 m2;3;66,90 millió Ft
-108;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32868186;xiii-ker;tegla-epitesu-lakas;52 m2;2;65,50 millió Ft
-109;/balatonlelle/elado+lakas/tegla-epitesu-lakas/33007180;balatonlelle;tegla-epitesu-lakas;103 m2;4;123,17 millió Ft
-110;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32868544;xiii-ker;tegla-epitesu-lakas;69 m2;3;80,90 millió Ft
-111;/xix-ker/elado+lakas/tegla-epitesu-lakas/32724664;xix-ker;tegla-epitesu-lakas;158 m2;4;136,85 millió Ft
-112;/viii-ker/elado+lakas/tegla-epitesu-lakas/32949267;viii-ker;tegla-epitesu-lakas;46 m2;2;56,99 millió Ft
-113;/keszthely/elado+lakas/tegla-epitesu-lakas/32257570;keszthely;tegla-epitesu-lakas;57 m2;3;85,45 millió Ft
-114;/viii-ker/elado+lakas/tegla-epitesu-lakas/32949307;viii-ker;tegla-epitesu-lakas;26 m2;1;44,95 millió Ft
-115;/balatonfured/elado+lakas/tegla-epitesu-lakas/32973849;balatonfured;tegla-epitesu-lakas;42 m2;1 + 1 fél;45,90 millió Ft
-116;/vi-ker/elado+lakas/tegla-epitesu-lakas/32828747;vi-ker;tegla-epitesu-lakas;61 m2;3;67,10 millió Ft
-117;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32993368;xiv-ker;tegla-epitesu-lakas;56 m2;1 + 2 fél;"48,50 millió Ft
-120,19 ezer €"
-118;/balatonlelle/elado+lakas/tegla-epitesu-lakas/32076660;balatonlelle;tegla-epitesu-lakas;66 m2;3;105,09 millió Ft
-119;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32440657;xiii-ker;tegla-epitesu-lakas;86 m2;4;104,34 millió Ft
-120;/iii-ker/elado+lakas/tegla-epitesu-lakas/32476576;iii-ker;tegla-epitesu-lakas;95 m2;4;140,37 millió Ft
-121;/iii-ker/elado+lakas/panel-lakas/32927842;iii-ker;panel-lakas;69 m2;3;"45,90 millió Ft
-115,11 ezer €"
-122;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32947860;xiii-ker;tegla-epitesu-lakas;48 m2;1 + 1 fél;38,40 millió Ft
-123;/ix-ker/elado+lakas/tegla-epitesu-lakas/32955471;ix-ker;tegla-epitesu-lakas;61 m2;2 + 1 fél;66,90 millió Ft
-124;/ix-ker/elado+lakas/tegla-epitesu-lakas/32917302;ix-ker;tegla-epitesu-lakas;41 m2;1;45 millió Ft
+0;/szombathely/elado+lakas/tegla-epitesu-lakas/32690807;szombathely;tegla-epitesu-lakas;55 m2;3;39,90 millió Ft
+1;/szombathely/elado+lakas/tegla-epitesu-lakas/32690759;szombathely;tegla-epitesu-lakas;75 m2;4;51,90 millió Ft
+2;/ix-ker/elado+lakas/tegla-epitesu-lakas/32940102;ix-ker;tegla-epitesu-lakas;38 m2;2;45,90 millió Ft
+3;/ix-ker/elado+lakas/tegla-epitesu-lakas/32939155;ix-ker;tegla-epitesu-lakas;33 m2;1;38,90 millió Ft
+4;/iv-ker/elado+lakas/tegla-epitesu-lakas/32805311;iv-ker;tegla-epitesu-lakas;104 m2;4;110 millió Ft
+5;/viii-ker/elado+lakas/tegla-epitesu-lakas/32863188;viii-ker;tegla-epitesu-lakas;41 m2;2;33,50 millió Ft
+6;/v-ker/elado+lakas/tegla-epitesu-lakas/28450448;v-ker;tegla-epitesu-lakas;118 m2;4;155 millió Ft
+7;/viii-ker/elado+lakas/tegla-epitesu-lakas/32674840;viii-ker;tegla-epitesu-lakas;60 m2;3;70,30 millió Ft
+8;/iii-ker/elado+lakas/panel-lakas/32974352;iii-ker;panel-lakas;66 m2;3;"55,90 millió Ft
+138,53 ezer €"
+9;/ix-ker/elado+lakas/tegla-epitesu-lakas/32776413;ix-ker;tegla-epitesu-lakas;43 m2;2;74,84 millió Ft
+10;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32957116;xiii-ker;tegla-epitesu-lakas;61 m2;2;59,90 millió Ft
+11;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32984674;xiii-ker;tegla-epitesu-lakas;41 m2;2;79,90 millió Ft
+12;/ii-ker/elado+lakas/tegla-epitesu-lakas/32976657;ii-ker;tegla-epitesu-lakas;65 m2;3;89,90 millió Ft
+13;/xi-ker/elado+lakas/tegla-epitesu-lakas/32998385;xi-ker;tegla-epitesu-lakas;57 m2;2 + 1 fél;63,80 millió Ft
+14;/xiii-ker/elado+lakas/tegla-epitesu-lakas/33000469;xiii-ker;tegla-epitesu-lakas;51 m2;2;66 millió Ft
+15;/xi-ker/elado+lakas/panel-lakas/33001023;xi-ker;panel-lakas;66 m2;1 + 3 fél;63,90 millió Ft
+16;/xi-ker/elado+lakas/tegla-epitesu-lakas/32987366;xi-ker;tegla-epitesu-lakas;74 m2;3;104,62 millió Ft
+17;/vii-ker/elado+lakas/tegla-epitesu-lakas/32920730;vii-ker;tegla-epitesu-lakas;105 m2;3;99 millió Ft
+18;/iii-ker/elado+lakas/panel-lakas/33004361;iii-ker;panel-lakas;NA;NA;NA
+19;/xiii-ker/elado+lakas/tegla-epitesu-lakas/33004164;xiii-ker;tegla-epitesu-lakas;67 m2;3;89,90 millió Ft
+20;/vii-ker/elado+lakas/tegla-epitesu-lakas/33005450;vii-ker;tegla-epitesu-lakas;113 m2;3;75 millió Ft
+21;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32983230;xiii-ker;tegla-epitesu-lakas;33 m2;1;48,75 millió Ft
+22;/vii-ker/elado+lakas/tegla-epitesu-lakas/28867703;vii-ker;tegla-epitesu-lakas;48 m2;1 + 1 fél;47,90 millió Ft
+23;/viii-ker/elado+lakas/tegla-epitesu-lakas/32847739;viii-ker;tegla-epitesu-lakas;56 m2;2;"44,80 millió Ft
+114,05 ezer €"
+24;/viii-ker/elado+lakas/tegla-epitesu-lakas/32866088;viii-ker;tegla-epitesu-lakas;82 m2;3;"79 millió Ft
+198,24 ezer €"
+25;/viii-ker/elado+lakas/tegla-epitesu-lakas/32901346;viii-ker;tegla-epitesu-lakas;111 m2;4;"79,99 millió Ft
+203,63 ezer €"
+26;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32941916;xiii-ker;tegla-epitesu-lakas;47 m2;2;35,90 millió Ft
+27;/vii-ker/elado+lakas/tegla-epitesu-lakas/32265440;vii-ker;tegla-epitesu-lakas;87 m2;3;62 millió Ft
+28;/xi-ker/elado+lakas/tegla-epitesu-lakas/32223580;xi-ker;tegla-epitesu-lakas;49 m2;2;74,80 millió Ft
+29;/xiii-ker/elado+lakas/tegla-epitesu-lakas/32768382;xiii-ker;tegla-epitesu-lakas;81 m2;2 + 1 fél;"64,80 millió Ft
+160,59 ezer €"
+30;/vii-ker/elado+lakas/tegla-epitesu-lakas/32889846;vii-ker;tegla-epitesu-lakas;46 m2;1 + 1 fél;53,90 millió Ft
+31;/xiv-ker/elado+lakas/tegla-epitesu-lakas/32953006;xiv-ker;tegla-epitesu-lakas;68 m2;2 + 1 fél;49,90 millió Ft
+32;/xi-ker/elado+lakas/tegla-epitesu-lakas/32923710;xi-ker;tegla-epitesu-lakas;106 m2;3 + 1 fél;109 millió Ft
+33;/iv-ker/elado+lakas/panel-lakas/23141128;iv-ker;panel-lakas;60 m2;1 + 2 fél;39,90 millió Ft
+34;/iv-ker/elado+lakas/panel-lakas/33010067;iv-ker;panel-lakas;54 m2;2;39,90 millió Ft
