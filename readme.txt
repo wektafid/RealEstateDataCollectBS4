@@ -1,8 +1,7 @@
-From the biggest Hungarian real estate site (ingatlan.com) the data is downloaded with BS4.
-Error handling built in, because some of the ad are out of date in the minute of the code running. 
+The data is downloaded with BS4 from the biggest Hungarian real estate site (ingatlan.com).
 
-Because parsing such big ammount of data could cause some problems on the site, sleep timers are added to the code.
+There's built-in error handling, because some of the ads are out of date in the minute of the code running.
 
-The "Terms and Conditions" of the page strictly forbids to use parsing solutions on the page, the test run was succesfull, but had to stop it after a few trials.
+Since parsing such big amount of data could cause some problems on the site, sleep timers are added to the code.
 
-The data wich was downloaded from the page as test was deleted.
+The "Terms and Conditions" of the site strictly forbids the use of parsing solutions on the page, the test run was successful, but had to stop it after a few trials.
