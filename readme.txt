@@ -5,3 +5,5 @@ There's built-in error handling, because some of the ads are out of date in the 
 Since parsing such big amount of data could cause some problems on the site, sleep timers are added to the code.
 
 The "Terms and Conditions" of the site strictly forbids the use of parsing solutions on the page, the test run was successful, but had to stop it after a few trials.
+
+The downloaded data was wiped.
